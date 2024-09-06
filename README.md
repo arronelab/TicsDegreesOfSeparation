@@ -6,4 +6,4 @@ Whenever I watch a match with friends or family, it isn't long before my classic
 * Extracted the career of each of these players, teams played for with dates to/from, using pandas DataFrames to store this.
 * Used python's networkx module to build a graph with players and teams as vertices, and edges between a player and every team they played for, and between players that played for the same team at the same time.
 * Used shortest path algorithms to find the distance between any player and Wigan.
-* Used centrality to measures to discover that unfortunately Wigan is not the centre of the footballing universe... but Luke Thomas is?
+* Used centrality measures to discover that unfortunately Wigan is not the centre of the footballing universe... but Luke Thomas is?
